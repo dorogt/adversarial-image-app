@@ -1,0 +1,7 @@
+echo "
+flask
+torch
+torchvision
+foolbox
+pillow
+" > requirements.txt
